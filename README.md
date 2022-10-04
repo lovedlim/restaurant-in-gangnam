@@ -29,7 +29,7 @@
 
 
 ## 샐러드
--
+- [피그인더가든](https://map.naver.com/v5/search/%ED%94%BC%EA%B7%B8%EC%9D%B8%EB%8D%94%EA%B0%80%EB%93%A0%20%EA%B0%95%EB%82%A8/place/1127093454?placePath=%3Fentry=pll%26from=nx%26fromNxList=true) (혼밥 가능)
 -
 -
 
